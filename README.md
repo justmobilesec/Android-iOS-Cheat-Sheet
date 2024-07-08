@@ -1,4 +1,6 @@
 ## Android & iOS Cheatsheet
+This cheat sheet was created by the Just Mobile Security team to facilitate information for internal training practices. In the spirit of collaboration with the mobile security community, we are sharing it and hope to receive feedback to continue enhancing its content. Thank you!
+Just Mobile Security Team
 ### [Android](Android%20Cheatsheet.pdf)
 
 - ADB Commands
